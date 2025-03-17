@@ -26,21 +26,25 @@ Comparison & Evaluation → Compare the original, noisy, and denoised images.
 # 🔧 Requirements
 
 Install dependencies before running the code:
-```bash
-pip install numpy opencv-python scikit-image scipy
+    ```bash
+        pip install numpy opencv-python scikit-image scipy
 
 # 📊 Results & Evaluation
 
-The original, noisy, and denoised images are stored for comparison.  
+The original, noisy, and denoised images are stored for comparison.
 You can evaluate image quality improvements using PSNR, SSIM, or MSE.
 
 # 📌 Future Improvements
 
-Test with other noise types (Poisson, Salt & Pepper).  
-Optimize denoising with Deep Learning methods.  
+Test with other noise types (Poisson, Salt & Pepper).
+Optimize denoising with Deep Learning methods.
 Automate parameter tuning for faster convergence.
 
 # 🎯 Contributors
 
-Vo Nguyen Phat - Developer  
+Vo Nguyen Phat - Developer
 I am learning day by day. Feel free to contribute by submitting issues or pulling requests.
+
+```
+
+```
