@@ -1,1 +1,1 @@
-# This folder contains the result images after being denoised
+# This folder contains the result images after being denoised.

@@ -1,1 +1,1 @@
-# This folder contains the noisy generated images 
+# This folder contains the noisy generated images.
