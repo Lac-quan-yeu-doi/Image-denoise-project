@@ -27,7 +27,7 @@ Comparison & Evaluation → Compare the original, noisy, and denoised images.
 
 Install dependencies before running the code:
     ```bash
-        pip install numpy opencv-python scikit-image scipy
+    pip install numpy opencv-python scikit-image scipy
 
 # 📊 Results & Evaluation
 
