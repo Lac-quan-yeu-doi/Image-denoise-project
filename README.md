@@ -35,14 +35,14 @@ pip install numpy opencv-python scikit-image scipy
 
 # 📊 Results & Evaluation
 
-The original, noisy, and denoised images are stored for comparison.  
-You can evaluate image quality improvements using PSNR, SSIM, or MSE.
+- The original, noisy, and denoised images are stored for comparison.  
+- You can evaluate image quality improvements using PSNR, SSIM, or MSE.
 
 # 📌 Future Improvements
 
-Test with other noise types (Poisson, Salt & Pepper).  
-Optimize denoising with Deep Learning methods.  
-Automate parameter tuning for faster convergence.
+- Test with other noise types (Poisson, Salt & Pepper).  
+- Optimize denoising with Deep Learning methods.  
+- Automate parameter tuning for faster convergence.
 
 # 🎯 Contributors
 
