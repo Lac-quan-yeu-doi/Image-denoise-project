@@ -17,7 +17,7 @@ This project applies artificial noise to images and then attempts to denoise the
 # 📂 Folder Structure
 
 📂 Image-denoise-project  
-│── 📁 sharp \t\t# Original (clean) images  
+│── 📁 sharp \t\t # Original (clean) images  
 │── 📁 noise \t\t# Noisy images (after applying Gaussian noise)  
 │── 📁 result \t\t# Denoised images (after applying optimized Gaussian filter)  
 │── 📜 main.ipynb \t# Main notebook for all tasks  
