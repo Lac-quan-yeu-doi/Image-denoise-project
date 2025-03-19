@@ -43,9 +43,5 @@ Automate parameter tuning for faster convergence.
 
 # 🎯 Contributors
 
-Vo Nguyen Phat - Developer  
+Vo Nguyen Phat - Developer.  
 I am learning day by day. Feel free to contribute by submitting issues or pulling requests.
-
-```
-
-```
