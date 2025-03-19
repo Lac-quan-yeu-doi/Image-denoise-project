@@ -17,11 +17,11 @@ Comparison & Evaluation → Compare the original, noisy, and denoised images.
 # 📂 Folder Structure
 
 📂 Image-denoise-project  
-│── 📁 sharp # Original (clean) images  
-│── 📁 noise # Noisy images (after applying Gaussian noise)  
-│── 📁 result # Denoised images (after applying optimized Gaussian filter)  
-│── 📜 main.ipynb # Main notebook for all tasks  
-│── 📜 README.md # Documentation
+│── 📁 sharp        # Original (clean) images  
+│── 📁 noise        # Noisy images (after applying Gaussian noise)  
+│── 📁 result       # Denoised images (after applying optimized Gaussian filter)  
+│── 📜 main.ipynb   # Main notebook for all tasks  
+│── 📜 README.md    # Documentation
 
 # 🔧 Requirements
 
